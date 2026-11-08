@@ -2,10 +2,10 @@
 
 Upload a PDF and ask questions about it in plain English. The app finds the most relevant parts of your document, answers using only that content, and shows the pages the answer came from.
 
-**[Live demo][(https://pdfq-achatbot-a7nwwxcw6dsdkypjfstapp9.streamlit.app/)** ]· Built with Streamlit, LangChain and Google Gemini
+**[Live demo]
+[(https://pdfq-achatbot-a7nwwxcw6dsdkypjfstapp9.streamlit.app/)** ]· 
+Built with Streamlit, LangChain and Google Gemini
 
-![App screenshot](<img width="1353" height="621" alt="pdf_chatbot" src="https://github.com/user-attachments/assets/ac7b76de-4d61-4b3e-bdf7-7ce2d1195a1b" />
-)
 
 ## Features
 
