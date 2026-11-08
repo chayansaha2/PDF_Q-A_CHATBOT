@@ -1,2 +1,2 @@
 # PDF_Q-A_CHATBOT
-Its my first Q&amp;A PDF Chatbot which i created by using langchain and streamlit.
+AI chatbot that answers questions about any PDF using RAG, with page-level sources. Built with Streamlit, LangChain and Google Gemini.
